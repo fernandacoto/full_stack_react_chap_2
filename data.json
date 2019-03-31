@@ -7,13 +7,6 @@
         "runningSince": null
     },
     {
-        "title": "Clear paper jam",
-        "project": "Office Chores",
-        "elapsed": 1276036,
-        "id": "a73c1d19-f32d-4aff-b470-cea4e792406a",
-        "runningSince": null
-    },
-    {
         "title": "Ponder origins of universe",
         "project": "Life Chores",
         "id": "2c43306e-5b44-4ff8-8753-33c35adbd06f",
@@ -25,6 +18,13 @@
         "project": "Prueba",
         "id": "f7959862-19b8-4fb1-9074-1d5ff4d2383b",
         "elapsed": 2280,
+        "runningSince": null
+    },
+    {
+        "title": "New timer edited",
+        "project": "new project",
+        "id": "92020910-4b66-4cff-8f51-fe08c1682aff",
+        "elapsed": 5663,
         "runningSince": null
     }
 ]
